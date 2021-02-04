@@ -742,7 +742,7 @@ CHARA_NAME = {
     7303: ['光瑠','加賀美ヒカル','KagamiHikaru','光琉'],
     7304: ['燕','竜胆つばめ','RindouTsubame'],
     7305: ['泉','結橋泉','YuibashiIzumi'],
-    7306: ['紫苑','乃木坂紫苑','Nogisaka Shion'],
+    7306: ['紫苑','乃木坂紫苑','NogisakaShion'],
 
 
     4031: ["骷髅", "髑髏", "Dokuro", "骷髅老爹", "老爹"],
