@@ -735,7 +735,7 @@ CHARA_NAME = {
     7203: ['美绫','高澤美綾','TakazawaMiaya'],
 
     # =================================== #
-    #Clover Day's
+    #Clover Day's#
     7300: ['杏铃','鷹倉杏鈴','TakakuraAnzu','杏铃铃','Anzu','呀呀呀'],
     7301: ['杏璃','鷹倉杏璃','TakakuraAnri','杏璃璃','Anri'],
     7302: ['碧瑠','加賀美ヘキル','KagamiHekiru','碧琉'],
